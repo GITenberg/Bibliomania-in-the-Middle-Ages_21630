@@ -1,0 +1,34 @@
+_repo: Bibliomania-in-the-Middle-Ages_21630
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Merryweather, F. Somner (Frederick Somner)
+    alias: Merryweather, Frederick Somner
+    birthdate: 1827
+    deathdate: 1900
+    gutenberg_agent_id: '24818'
+    url: http://www.gutenberg.org/2009/agents/24818
+description: ''
+gutenberg_bookshelf: Bibliomania
+gutenberg_issued: '2007-05-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21630'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'Z'
+- !lcsh 'England -- Intellectual life -- 1066-1485'
+- !lcsh 'Bibliomania -- History'
+- !lcsh 'Manuscripts, Medieval -- Collectors and collecting -- England -- History'
+- !lcsh 'Scriptoria -- England -- History'
+- !lcsh 'Libraries -- Great Britain -- History -- 400-1400'
+- !lcsh 'Monastic libraries -- Great Britain -- History'
+- !lcsh 'Book collectors -- England -- Biography'
+title: Bibliomania in the Middle Ages
+url: http://www.gutenberg.org/ebooks/21630
